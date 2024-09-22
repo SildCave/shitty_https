@@ -1,0 +1,9 @@
+[package]
+name = "shitty_https"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thiserror = "1.0.62"
+num-traits = "0.2"
+num-derive = "0.2"
